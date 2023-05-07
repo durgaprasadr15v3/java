@@ -1,0 +1,9 @@
+Abstract
+Cloud computing promises to significantly change the waywe use computers and access and store our personal and business
+information. With these new computing and communicationsparadigms arise new data security challenges. Existing
+data protection mechanisms such as encryption have failed inpreventing data theft attacks, especially those perpetrated by
+an insider to the cloud provider.We propose a different approach for securing data in the
+cloud using offensive decoy technology. We monitor dataaccess in the cloud and detect abnormal data access patterns.
+When unauthorized access is suspected and then verified usingchallenge questions, we launch a disinformation attack by
+returning large amounts of decoy information to the attacker.This protects against the misuse of the user’s real data.Experiments conducted in a local file setting provide evidence
+that this approach may provide unprecedented levels of 
